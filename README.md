@@ -3,7 +3,7 @@
 Hey there! I’m **Jayash Saini**, a passionate **Full Stack Web Developer** specializing in TypeScript and JavaScript. I love transforming ideas into clean, scalable solutions—whether on the front end or backend.
 
 - 🚀 Currently focused on building secure, high-performance services (authentication, real-time chat, caching) using Node.js, Express, Prisma with PostgreSQL, Redis, and AWS.
-- 🧠 Previously revamped authentication flows, optimized backend performance, and stabilized production systems at companies like Morse Team, GPC Solutions, and TrackOnWeb :contentReference[oaicite:1]{index=1}.
+- 🧠 Previously revamped authentication flows, optimized backend performance, and stabilized production systems at companies like Morse Team, GPC Solutions, and TrackOnWeb.
 - 🌱 Always learning new tech—recently exploring WebSocket streaming, Redis caching, and cloud-native tools like AWS S3 and Vercel.
 - 🎯 Advocate of clean code, strong architecture, and expressive logging; I’m equally invested in developer experience and end-user performance.
 
